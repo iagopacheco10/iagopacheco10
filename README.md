@@ -35,5 +35,5 @@
 <h3>Contact Me</h3>
 
 [![Linkedin](https://img.shields.io/badge/-iagopacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-pacheco-120a88242/)](https://www.linkedin.com/in/iago-pacheco-120a88242/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@iagopacheco.tech-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-iagopacheco01@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iagopacheco10?label=follow&style=social)](https://github.com/iagopacheco10)

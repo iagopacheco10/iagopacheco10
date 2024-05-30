@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1>About me</h1>
+<h2>About me</h2>
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduated in Systems Analysis and Development

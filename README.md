@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h2>About me</h2>
+<h1>About me</h1>
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduated in Systems Analysis and Development
 - 💼 Looking for my first tech job
 - 🌱 front-end developer specializing and deepening my knowledge to become a full stack developer. 
-<h3>Skills</h3>
+<h2>Skills</h2>
 
 **Applications & Data**
 
@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagopacheco10&theme=dracula&show_icons=true" />
 </a>
 
-<h3>Contact Me</h3>
+<h2>Contact Me</h2>
 
 [![Linkedin](https://img.shields.io/badge/-iagopacheco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-pacheco-120a88242/)](https://www.linkedin.com/in/iago-pacheco-120a88242/)
 [![Gmail Badge](https://img.shields.io/badge/-iagopacheco01@icloud.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)

@@ -1,12 +1,12 @@
 <img src="computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h2>About me</h2>
+<h3>About me</h3>
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduated in Systems Analysis and Development
 - 💼 Looking for my first tech job
 - 🌱 front-end developer specializing and deepening my knowledge to become a full stack developer. 
-<h2>Skills</h2>
+<h3>Skills</h3>
 
 **Applications & Data**
 
